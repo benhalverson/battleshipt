@@ -23,4 +23,6 @@ export class Ship{
       this.sunkShip();
     }
   };
+
+
 }
